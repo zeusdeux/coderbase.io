@@ -5,7 +5,7 @@ description: qckMeddler (qwik med-lur), n. A live HTML, CSS and Javascript edito
 homepage: 
 languages: [javascript]
 visible: true
-order: 
+order: 5
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
