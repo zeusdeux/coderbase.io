@@ -5,7 +5,7 @@ description: A small jQuery plugin that helps you divide an element into four tr
 homepage: 
 languages: [javascript]
 visible: true
-order: 
+order: 4
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
