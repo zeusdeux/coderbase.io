@@ -5,7 +5,7 @@ description: A javascript library for formatting and manipulating numbers.
 homepage: http://numeraljs.com
 languages: [javascript]
 visible: false
-order: 
+order: 7
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
