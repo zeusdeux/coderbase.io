@@ -5,7 +5,7 @@ description: A simple (P)romise/A+ spec (imp)lementation
 homepage: https://www.npmjs.org/package/pimp
 languages: [javascript]
 visible: true
-order: 
+order: 2
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
