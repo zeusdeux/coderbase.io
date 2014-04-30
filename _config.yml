@@ -9,15 +9,15 @@ Name: Mudit Ameta
 # I like ________________________________.
 
 I: 
-at: Freelance
-I like: 
+am: a freelancer
+I like: JavaScript, Node.js, design, speed & simplicity
 
 # Add your twitter handle to display your most 
 # recent tweet and link to your twitter account.
 # Your twitter account is the only contact information 
 # visible to the public.
 
-Twitter: 
+Twitter: muditameta
 
 # Enter your Google+ id number to add an author meta tag to your posts.
 # Why? It allows Google to put your Google+ photo next to search results,
@@ -40,5 +40,5 @@ Domain:
 # By default the posts tab is selected. You can input:
 # 'posts', 'projects', or 'about'
 
-Homepage: posts
+Homepage: projects
 
