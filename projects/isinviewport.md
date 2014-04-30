@@ -5,7 +5,7 @@ description: An ultra-light jQuery plugin that tells you if an element is in the
 homepage: 
 languages: [javascript]
 visible: true
-order: 
+order: 1
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
