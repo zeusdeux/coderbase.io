@@ -5,7 +5,7 @@ description: A simple image slider.
 homepage: 
 languages: [javascript]
 visible: true
-order: 
+order: 6
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
