@@ -5,7 +5,7 @@ description: A tool for identifying and reporting on patterns in JavaScript.
 homepage: http://eslint.org
 languages: [javascript]
 visible: false
-order: 
+order: 12
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
