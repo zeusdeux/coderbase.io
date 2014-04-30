@@ -5,7 +5,7 @@ description: Just my Package Control.sublime-settings file
 homepage: 
 languages: []
 visible: true
-order: 
+order: 9
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
