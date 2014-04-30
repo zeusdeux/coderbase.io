@@ -5,7 +5,7 @@ description: A few tests that I wrote to clarify my doubts about the __proto__ c
 homepage: 
 languages: [javascript]
 visible: true
-order: 
+order: 15
 # Github Flavored Markdown reference
 # https://help.github.com/articles/github-flavored-markdown
 ---
